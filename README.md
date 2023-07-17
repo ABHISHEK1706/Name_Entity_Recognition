@@ -1,1 +1,1 @@
-# Name_Entity_Relation
+# Name_Entity_Recognition
